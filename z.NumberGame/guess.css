@@ -1,0 +1,33 @@
+body{
+     background: linear-gradient(to bottom,violet,black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1{
+    margin: 10%;
+    font-size: 4em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+p{
+    font-size: 1.5em;
+    font-family:cursive;
+    font-style: italic;
+    color: aliceblue;
+}
+input{
+    margin-top: 15px;
+    margin-bottom: 3%;
+    border-radius: 20px;
+    height: 25px;
+    width: 225px;
+}
+#submit{
+    border-radius: 20px;
+    height: 35px;
+    width: 105px;
+    background-color:blueviolet;
+    font-family:cursive;
+}
